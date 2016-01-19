@@ -1,4 +1,4 @@
-100 Python Programs
+# 100 Python Programs
 
 A little challenge to create 100 practical programs in Python covering topics from numbers to networking to security. Cool way to learn the language.
 
